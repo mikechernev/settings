@@ -1,0 +1,34 @@
+[user]
+	name = Mike Chernev
+	email = mike@mikechernev.com
+[color]
+	ui = auto
+[apply]
+	whitespace = nowarn
+[alias]
+	co = checkout
+	br = branch
+[core]
+	editor = vim
+	autocrlf = input
+	excludesfile = ~/.settings/git/gitexcludes
+
+[github]
+	user = mikechernev
+	token = 
+
+[color "branch"]
+    current = yellow reverse
+    local = yellow
+    remote = green
+
+[color "diff"]
+    meta = yellow bold
+    frag = magenta bold
+    old = red bold
+    new = green bold
+
+[color "status"]
+    added = green
+    changed = red
+    untracked = cyan
