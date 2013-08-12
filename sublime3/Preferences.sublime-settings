@@ -1,8 +1,9 @@
 {
-	"draw_white_space": "all",
-	"font_size": 9,
-	"ignored_packages":
-	[
-	],
-	"translate_tabs_to_spaces": true
+    "draw_white_space": "all",
+    "font_size": 9,
+    "ignored_packages":
+    [
+    ],
+    "translate_tabs_to_spaces": true,
+    "shift_tab_unindent": true,
 }
